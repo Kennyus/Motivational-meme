@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.bigdiv {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+.moti-img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
